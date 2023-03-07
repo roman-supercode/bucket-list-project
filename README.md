@@ -6,7 +6,7 @@
 
 This is a simple Bucket List application built using React and Dracula UI.
 
-View live demo here ![Bucket List](https://bucket-list-project.netlify.app/)
+View live demo here [Bucket List](https://bucket-list-project.netlify.app/)
 
 #### 🧩 Features
 
