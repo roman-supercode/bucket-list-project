@@ -12,3 +12,6 @@ View live demo here [Bucket List](https://bucket-list-project.netlify.app/)
 
 - You can create, delete, filter and mark tasks as done/undone.
 - The app uses localstorage to save and retrieve tasks.
+
+#### Next Step
+- Backend
